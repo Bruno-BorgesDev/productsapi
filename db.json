@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Iphone",
-            "image": "https://lojaonline.vivo.com.br/medias/sys_master/root/h1d/h26/13533395877918/posicao1-apple-iphone-xr-64gb-preto-DGAP08162000.png",            
+            "image": "./images/posicao1-apple-iphone-xr-64gb-preto-DGAP08162000.png",            
             "description": "Descrição do produto",
             "price": 5000
         },
