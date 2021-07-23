@@ -1,0 +1,23 @@
+{
+  "name": "productsapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruno-BorgesDev/productsapi.git"
+  },
+  "keywords": [],
+  "author": "Bruno Borges da Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bruno-BorgesDev/productsapi/issues"
+  },
+  "homepage": "https://github.com/Bruno-BorgesDev/productsapi#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
