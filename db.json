@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Iphone",
-            "image": "./images/posicao1-apple-iphone-xr-64gb-preto-DGAP08162000.png",            
+            "image": "https://lojaonline.vivo.com.br/medias/sys_master/root/h1d/h26/13533395877918/posicao1-apple-iphone-xr-64gb-preto-DGAP08162000.png",            
             "description": "Descrição do produto",
             "price": 5000
         },
@@ -20,6 +20,14 @@
             "image": "https://lojaonline.vivo.com.br/medias/sys_master/root/h1d/h26/13533395877918/posicao1-apple-iphone-xr-64gb-preto-DGAP08162000.png",            
             "description": "Descrição do produto",
             "price": 3000
-        }   
+        },
+
+        {
+            "id": 4,
+            "name": "Motorolla",
+            "image": "https://lojaonline.vivo.com.br/medias/sys_master/root/h1d/h26/13533395877918/posicao1-apple-iphone-xr-64gb-preto-DGAP08162000.png",            
+            "description": "Descrição do produto",
+            "price": 3000
+        }
     ]
 }
